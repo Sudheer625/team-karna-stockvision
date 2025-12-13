@@ -42,7 +42,7 @@ Historical Stock Data
       ↓  
 Data Cleaning & Preprocessing  
       ↓  
-Forecasting Model (ARIMA / Prophet)  
+Forecasting Model (Prophet)  
       ↓  
 Prediction + Confidence Estimation  
       ↓  
