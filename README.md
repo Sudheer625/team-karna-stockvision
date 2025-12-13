@@ -60,44 +60,16 @@ Final Investor-Friendly Report
 **Programming Language**
 - Python 3.10+
 
-**Libraries & Tools**
-- Pandas, NumPy
-- Facebook Prophet
-- LangChain
-- OpenAI and  Gemini 
-- Matplotlib (optional)
+**Libraries & Tools** : 
+- Y finance : For fetching real time and historical stock data from Yahoo Finance 
+- Pandas, NumPy : A corner stone for data manipulation and analysis primarily used for DataFrames , for numerical operations , especially useful in calculating volatility 
+- Facebook Prophet : A robust forecasting library designed for the time series data , used here for time series data for predicting next day stock prices 
+- LangChain : An Integration that allows the use of google natural language explanations for the stock analysis 
+- OpenAI and  Gemini : Current AI Models 
 
 ---
 
-## 📂 Project Structure
-```
 
-StockVision/
-│
-├── data/
-│   ├── raw/
-│   │   └── stock_data.csv          # F8 stock market dataset
-│   ├── processed/
-│   │   └── cleaned_stock_data.csv  # optional (after preprocessing)
-│   └── load_data.py                # data loading & cleaning logic
-│
-├── models/
-│   └── prophet_model.py            # Prophet forecasting logic
-│
-├── services/
-│   ├── gemini_client.py             # Google Gemini API initialization
-│   ├── risk_analysis.py             # volatility, returns, trend logic
-│   └── explainer.py                 # Gemini-based risk advisory generator
-│
-├── app.py                           # Streamlit POC application
-│
-├── requirements.txt                 # project dependencies
-│
-├── README.md                        # judges-ready documentation
-│
-└── .env                             # Gemini API key
-
-```
 
 ---
 
@@ -125,38 +97,23 @@ High Volatility + Low Confidence → High Risk
 
 ---
 
-## ⚙️ Installation
-```
 
-pip install -r requirements.txt
 
-```
----
-
-## ▶️ Run the Project
-```
-
-python app.py
-
-```
-
----
 
 ## 🔐 Limitations
 
-- Short-term forecasting only
+- It is for Short Term Investors 
 - Sensitive to sudden news
-- Depends on historical data accuracy
+- Depends on historical data model accuracy
 
 ---
 
 ## 👨‍💻 Author
 
 **Team - KARNA**   
-**Singidi Sai Naga Sudheer** - Team Lead + AI Assistant  
-**Pogiri Venkata Narsimhulu** - Associate Team Lead + Github  
-**Potnuru Uday Teja** - Prompt Engineer + Team Member  
-**Reyyi Harshitha** - Documentation + Team Member  
+**Singidi Sai Naga Sudheer** - 
+**Potnuru Uday Teja** -   
+**Reyyi Harshitha** - 
 
 
 
