@@ -65,6 +65,7 @@ Final Investor-Friendly Report
 - Pandas, NumPy : A corner stone for data manipulation and analysis primarily used for DataFrames , for numerical operations , especially useful in calculating volatility 
 - Facebook Prophet : A robust forecasting library designed for the time series data , used here for time series data for predicting next day stock prices 
 - LangChain : An Integration that allows the use of google natural language explanations for the stock analysis 
+- Gradio : A Popular library for building user friendly web interfaces for machine learning models and data applications making the StockVision
 - OpenAI and  Gemini : Current AI Models 
 
 ---
@@ -111,9 +112,9 @@ High Volatility + Low Confidence → High Risk
 ## 👨‍💻 Author
 
 **Team - KARNA**   
-**Singidi Sai Naga Sudheer** - 
-**Potnuru Uday Teja** -   
-**Reyyi Harshitha** - 
+**Singidi Sai Naga Sudheer** 
+**Potnuru Uday Teja** 
+**Reyyi Harshitha** 
 
 
 
