@@ -36,23 +36,8 @@ Most retail investors struggle with:
 ---
 
 ## 🏗️ System Architecture
-```
+![StockVision Architecture](https://raw.githubusercontent.com/Sudheer625/team-karna-stockvision/main/assets/SystemArch.png)
 
-Historical Stock Data  
-      ↓  
-Data Cleaning & Preprocessing  
-      ↓  
-Forecasting Model (Prophet)  
-      ↓  
-Prediction + Confidence Estimation  
-      ↓  
-Risk Classification Engine  
-      ↓  
-LLM Risk Advisory Generator  
-      ↓  
-Final Investor-Friendly Report  
-
-```
 ---
 
 ## 🛠️ Tech Stack
