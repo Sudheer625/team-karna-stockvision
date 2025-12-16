@@ -97,8 +97,10 @@ High Volatility + Low Confidence → High Risk
 ## 👨‍💻 Author
 
 **Team - KARNA**   
-**Singidi Sai Naga Sudheer** - Quantitative Data Engineer  
-**Potnuru Uday Teja** - AI Engineer 
+**Singidi Sai Naga Sudheer** - Quantitative Data Engineer
+
+**Potnuru Uday Teja** - AI Engineer
+
 **Reyyi Harshitha** - Application Developer (UI / UX )
 
 
